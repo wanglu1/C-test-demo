@@ -1,0 +1,6 @@
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\Ch11Ex01\Ch11Ex01\bin\Debug\Ch11Ex01.exe.config
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\Ch11Ex01\Ch11Ex01\bin\Debug\Ch11Ex01.exe
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\Ch11Ex01\Ch11Ex01\bin\Debug\Ch11Ex01.pdb
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\Ch11Ex01\Ch11Ex01\obj\Debug\Ch11Ex01.csprojResolveAssemblyReference.cache
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\Ch11Ex01\Ch11Ex01\obj\Debug\Ch11Ex01.exe
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\Ch11Ex01\Ch11Ex01\obj\Debug\Ch11Ex01.pdb

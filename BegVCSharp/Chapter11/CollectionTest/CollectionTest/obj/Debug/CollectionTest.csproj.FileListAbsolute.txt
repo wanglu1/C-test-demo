@@ -1,0 +1,6 @@
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\CollectionTest\CollectionTest\bin\Debug\CollectionTest.exe.config
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\CollectionTest\CollectionTest\bin\Debug\CollectionTest.exe
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\CollectionTest\CollectionTest\bin\Debug\CollectionTest.pdb
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\CollectionTest\CollectionTest\obj\Debug\CollectionTest.csprojResolveAssemblyReference.cache
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\CollectionTest\CollectionTest\obj\Debug\CollectionTest.exe
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter11\CollectionTest\CollectionTest\obj\Debug\CollectionTest.pdb

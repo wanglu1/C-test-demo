@@ -1,0 +1,5 @@
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter09\Ch09ClassLib\Ch09ClassLib\bin\Debug\Ch09ClassLib.dll
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter09\Ch09ClassLib\Ch09ClassLib\bin\Debug\Ch09ClassLib.pdb
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\Ch09ClassLib.csprojResolveAssemblyReference.cache
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\Ch09ClassLib.dll
+c:\users\xluuwag\documents\visual studio 2013\Projects\BegVCSharp\Chapter09\Ch09ClassLib\Ch09ClassLib\obj\Debug\Ch09ClassLib.pdb

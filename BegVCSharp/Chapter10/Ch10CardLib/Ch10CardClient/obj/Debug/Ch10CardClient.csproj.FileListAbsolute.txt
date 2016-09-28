@@ -1,0 +1,8 @@
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardClient.exe.config
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardClient.exe
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardClient.pdb
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardLib.dll
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\bin\Debug\Ch10CardLib.pdb
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\obj\Debug\Ch10CardClient.csprojResolveAssemblyReference.cache
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\obj\Debug\Ch10CardClient.exe
+C:\Users\xluuwag\Documents\Visual Studio 2013\Projects\BegVCSharp\Chapter10\Ch10CardLib\Ch10CardClient\obj\Debug\Ch10CardClient.pdb
